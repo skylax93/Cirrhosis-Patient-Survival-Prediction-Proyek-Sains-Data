@@ -1,11 +1,6 @@
-# Welcome to your Jupyter Book
+# Cirrhosis Patient Survival Prediction
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
+Dataset ini bertujuan untuk memprediksi keberlangsungan hidup pasien sirosis. Sirosis sendiri adalah kondisi di mana organ hati dipenuhi dengan jaringan parut sehingga tidak dapat berfungsi dengan normal. Jaringan ini terbentuk akibat penyakit liver berkepanjangan karena infeksi virus hepatitis B atau C dan kebiasaan mengonsumsi minuman beralkohol secara berlebihan. Untuk mendiagnosa seseorang memiliki penyakit sirosis maka diperlukan beberapa informasi sebagai indikator apakah pasien tersebut mengidap penyakit sirosis. Dataset ini disediakan oleh penelitian Mayo Clinic tentang sirosis bilier primer (PBC) hati yang dilakukan pada tahun 1974 hingga 1984 dengan total jumlah data sebanyak 418 data dengan tipe data tabular dan 17 fitur didalamnya.
 
 ```{tableofcontents}
 ```
